@@ -1,0 +1,13 @@
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\bin\Debug\net9.0\win-x64\open-window.deps.json
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\bin\Debug\net9.0\win-x64\open-window.dll
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\bin\Debug\net9.0\win-x64\open-window.pdb
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\open-window.csproj.AssemblyReference.cache
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\open-window.GeneratedMSBuildEditorConfig.editorconfig
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\open-window.AssemblyInfoInputs.cache
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\open-window.AssemblyInfo.cs
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\open-window.csproj.CoreCompileInputs.cache
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\open-window.sourcelink.json
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\open-window.dll
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\refint\open-window.dll
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\open-window.pdb
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\open-window\obj\Debug\net9.0\win-x64\ref\open-window.dll

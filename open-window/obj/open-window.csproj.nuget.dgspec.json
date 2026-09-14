@@ -44,9 +44,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.Playwright": {
+            "Photino.NET": {
               "target": "Package",
-              "version": "[1.62.0, )"
+              "version": "[4.0.16, )"
             }
           },
           "imports": [
