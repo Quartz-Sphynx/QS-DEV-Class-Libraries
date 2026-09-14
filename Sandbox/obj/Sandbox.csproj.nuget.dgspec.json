@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\Sandbox\\Sandbox.csproj": {}
+    "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\sandbox\\Sandbox.csproj": {}
   },
   "projects": {
-    "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\Sandbox\\Sandbox.csproj": {
+    "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\sandbox\\Sandbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\Sandbox\\Sandbox.csproj",
+        "projectUniqueName": "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\sandbox\\Sandbox.csproj",
         "projectName": "Sandbox",
-        "projectPath": "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\Sandbox\\Sandbox.csproj",
+        "projectPath": "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\sandbox\\Sandbox.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-        "outputPath": "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\Sandbox\\obj\\",
+        "outputPath": "H:\\Quartz Sphynx\\QS DEV\\QS DEV Class Libraries\\sandbox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config"
