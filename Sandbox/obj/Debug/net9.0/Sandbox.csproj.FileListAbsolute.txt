@@ -1,0 +1,13 @@
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\bin\Debug\net9.0\Sandbox.deps.json
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\bin\Debug\net9.0\Sandbox.dll
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\bin\Debug\net9.0\Sandbox.pdb
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\Sandbox.csproj.AssemblyReference.cache
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\Sandbox.AssemblyInfoInputs.cache
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\Sandbox.AssemblyInfo.cs
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\Sandbox.csproj.CoreCompileInputs.cache
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\Sandbox.sourcelink.json
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\Sandbox.dll
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\refint\Sandbox.dll
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\Sandbox.pdb
+H:\Quartz Sphynx\QS DEV\QS DEV Class Libraries\Sandbox\obj\Debug\net9.0\ref\Sandbox.dll
