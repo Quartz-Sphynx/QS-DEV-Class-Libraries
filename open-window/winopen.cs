@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Reflection;
-using Photino.NET;
+using Photino.NET; 
 
 namespace OpenWindow
 {
@@ -11,14 +11,14 @@ namespace OpenWindow
         /// </summary>
         public static void Launch(string htmlContent, string windowTitle = "Utility Window", int width = 800, int height = 600)
         {
-            // 1. Always targets your root project executable (tea_rex)
+            // 1. Grab the root project execution identifier
             AssemblyName entryAssemblyName = Assembly.GetEntryAssembly()?.GetName() ?? Assembly.GetCallingAssembly().GetName();
             string projectName = entryAssemblyName.Name ?? "UnknownProject";
 
             // 2. Output the initial load sequence
             Console.WriteLine("==================================================");
             Console.WriteLine($"[OPEN-WINDOW]: Initializing Photino UI engine...");
-            Console.WriteLine($">>> Hello {projectName}!");
+            Console.WriteLine($">>> Hello {projectName}!"); 
             Console.WriteLine("==================================================");
 
             Console.Write("\nPress [Enter] to spin up the native interface view layer...");
@@ -26,18 +26,19 @@ namespace OpenWindow
 
             Console.WriteLine("[OPEN-WINDOW]: Launching application window...");
 
-            // 3. Hook into the window initialization cycle
-            // This ensures the native OS WebView component parses and loads the layout 
-            // string immediately upon window creation, preventing a blank/black frame.
-            var window = new PhotinoWindow()
-                .SetTitle(windowTitle)
-                .SetSize(width, height)
-                .Center();
+            // 3. Initialize a clean window layout instance
+            var window = new PhotinoWindow();
 
-            // Bind your HTML layout data safely into the wrapper context
-            window.LoadRawString(htmlContent);
+            // 🟢 STEP A: Supply the content layout IMMEDIATELY to satisfy startup parameters
+            window.StartString = htmlContent;
 
-            // Render and block until closed
+            // 🟢 STEP B: Configure dimensions and tracking options AFTER setting StartString
+            window.SetTitle(windowTitle)
+                  .SetSize(width, height)
+                  .Center()
+                  .SetDevToolsEnabled(true); // Right-click -> Inspect element is now active if you need it
+
+            // 4. Render and hold execution loop until closed
             window.WaitForClose();
 
             Console.WriteLine("\n[OPEN-WINDOW]: Window context terminated by user.");
